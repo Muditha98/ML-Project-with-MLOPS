@@ -11,6 +11,7 @@ logs_dir = os.path.join(os.getcwd(), "logs")
 
 os.makedirs(logs_dir, exist_ok=True)
 
+
 LOG_FILE_PATH = os.path.join(logs_dir, LOG_FILE)
 
 
