@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/817294218749173992/2a3adb87611b487c9a079f6c6f4c76ce/artifacts
+deleted_time: 1726746285233
+end_time: 1726745224575
+entry_point_name: ''
+experiment_id: '817294218749173992'
+lifecycle_stage: deleted
+run_id: 2a3adb87611b487c9a079f6c6f4c76ce
+run_name: Linear Regression
+run_uuid: 2a3adb87611b487c9a079f6c6f4c76ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726745219258
+status: 3
+tags: []
+user_id: Dhananjana

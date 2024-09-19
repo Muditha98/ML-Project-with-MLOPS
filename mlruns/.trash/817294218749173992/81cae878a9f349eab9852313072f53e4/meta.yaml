@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/817294218749173992/81cae878a9f349eab9852313072f53e4/artifacts
+deleted_time: 1726746285233
+end_time: 1726745230044
+entry_point_name: ''
+experiment_id: '817294218749173992'
+lifecycle_stage: deleted
+run_id: 81cae878a9f349eab9852313072f53e4
+run_name: XGB Regressor
+run_uuid: 81cae878a9f349eab9852313072f53e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726745224637
+status: 3
+tags: []
+user_id: Dhananjana
